@@ -1,0 +1,5 @@
+void UART_initialization(long BAUDRATE)
+void USART_TxChar(unsigned char data)
+unsigned char USART_RxChar()
+void USART_Flush()
+void USART_SendString(char *str)
